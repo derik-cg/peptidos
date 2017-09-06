@@ -1,0 +1,9 @@
+$$a_t=b_{t-1} c \cr b_t=a_{t-1} d$$
+
+$$j_t=j_{t-1}\alpha+k_{t-1}\beta\cr k_t=j_{t-1}\gamma+k_{t-1}\delta $$
+
+$$j_{t+2}=j_{t+1}s_j+a_{t+1}f\cr a_{t+2}=j_{t+1}p+a_{t+1}s_a$$
+
+$$i_{t+1}=-i_{t} a - j_{t} b \cr j_{t+1}=i_{t} c - j_{t} d$$
+
+ 
